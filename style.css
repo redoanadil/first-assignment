@@ -1,0 +1,89 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+   }
+.head{
+    background-image: url("header-bg.png");
+    margin-bottom: 150px;
+    overflow: hidden;
+    
+}
+h1{
+    color: rgb(231, 47, 139);
+    font-size: 30px;
+}
+.head img{
+    width: 60%;
+}
+button{
+    background-color: rgb(231, 47, 139);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+    border: none;
+}
+.half-width{
+    width: 45%;
+    margin-bottom: 100px;
+    margin-left: 5%;
+    float: left;
+    
+}
+.text-area{
+    margin-top: 150px;
+}
+.biography{
+    background-image: url("biography-bg.png");
+    margin-bottom: 150px;
+    display: inline-block;
+    align-items: center;
+}
+.bio{
+    font-size: 30px;
+}
+.biography img{
+    width: 60%;
+
+    
+}
+.work-text{
+    text-align: center;    
+}
+.work img{
+    width: 29%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 150px;
+    float: left;  
+}
+
+
+.feedback{
+    background-image: url("footer-bg.png");
+    text-align: center;
+    
+}
+h3 h4 h6{
+    text-align: center;
+}
+h3{
+    font-size: 30px
+}
+.designation{
+    color:dimgray;
+    font-size: 10px;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+}
+
+.statistics{
+
+    background-color: #7768CC;
+    width: 1903px;
+    height: 250px;
+}
